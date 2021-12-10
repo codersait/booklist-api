@@ -1,0 +1,14 @@
+{
+  "name": "booklist-api",
+  "version": "1.0.0",
+  "description": "fake booklist api",
+  "main": "server.js",
+  "license": "MIT",
+  "scripts":{
+    "start": "node server.js"
+  },
+  "author": "Sait Ibrahim",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

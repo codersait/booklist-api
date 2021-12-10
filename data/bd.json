@@ -1,0 +1,25 @@
+{
+  "books": [
+    {
+      "id": 1637486276064,
+      "title": "harun",
+      "author": "Atque elit totam eo",
+      "publisher": "Harum occaecat ad qu",
+      "publishDate": "2022-06-03"
+    },
+    {
+      "id": 1637486284579,
+      "title": "halit",
+      "author": "In reprehenderit nat",
+      "publisher": "Do mollit quas ut in",
+      "publishDate": "1975-09-22"
+    },
+    {
+      "id": 1637486288975,
+      "title": "yaman",
+      "author": "Eligendi dolor dolor",
+      "publisher": "test",
+      "publishDate": "1974-08-16"
+    }
+  ]
+}
